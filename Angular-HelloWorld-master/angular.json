@@ -6,7 +6,7 @@
     "angular-hello-world": {
       "root": "",
       "sourceRoot": "src",
-      "projectType": "application",
+      "projectType": "application_bohot_sari_h",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
