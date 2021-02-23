@@ -5,7 +5,7 @@
   "projects": {
     "angular-hello-world": {
       "root": "",
-      "sourceRoot": "src",
+      "sourceRoot": "source",
       "projectType": "application",
       "architect": {
         "build": {
