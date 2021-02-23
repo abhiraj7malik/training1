@@ -5,8 +5,13 @@
   "projects": {
     "angular-hello-world_ko_krooo": {
       "root": "",
+
       "sourceRoot": "src",
       "projectType": "application_boht_sari_h",
+
+      "sourceRoot": "srccccccccccccccccccc",
+      "projectType": "application_bohot_sari_h",
+
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
